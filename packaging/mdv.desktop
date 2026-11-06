@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Leitor Markdown
+Comment=Leia Markdown localmente em uma janela Motif
+Exec=mdv -- %f
+Icon=text-x-generic
+Terminal=false
+Categories=Utility;TextTools;
+MimeType=text/markdown;text/x-markdown;
+StartupNotify=false
